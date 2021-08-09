@@ -1,0 +1,1682 @@
+﻿Log file open, 08/09/21 11:34:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FPS_HW
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.666076
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.09-03.34.56:716][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.09-03.34.56:717][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:717][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:776][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.09-03.34.56:776][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.09-03.34.56:777][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.09-03.34.56:777][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.09-03.34.56:778][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.09-03.34.56:854][  0]LogHAL: Display: Platform has ~ 8 GB [8486150144 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.09-03.34.56:854][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.09-03.34.56:854][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.09-03.34.56:854][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.09-03.34.56:855][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Scalability.ini]
+[2021.08.09-03.34.56:856][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.09-03.34.56:856][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.09-03.34.56:856][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.09-03.34.56:856][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.09-03.34.56:871][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.09-03.34.56:871][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.09-03.34.56:871][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.09-03.34.56:871][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Engine.ini]
+[2021.08.09-03.34.56:871][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Config/Windows/Editor.ini]
+[2021.08.09-03.34.56:924][  0]LogInit: Computer: OP3040-1333
+[2021.08.09-03.34.56:924][  0]LogInit: User: user
+[2021.08.09-03.34.56:924][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.08.09-03.34.56:924][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.09-03.34.56:924][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.08.09-03.34.56:940][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.09-03.34.56:940][  0]LogMemory: Process Physical Memory: 134.52 MB used, 134.52 MB peak
+[2021.08.09-03.34.56:940][  0]LogMemory: Process Virtual Memory: 117.57 MB used, 117.57 MB peak
+[2021.08.09-03.34.56:940][  0]LogMemory: Physical Memory: 4069.76 MB used,  4023.27 MB free, 8093.02 MB total
+[2021.08.09-03.34.56:941][  0]LogMemory: Virtual Memory: 134214512.00 MB used,  3217.98 MB free, 134217728.00 MB total
+[2021.08.09-03.34.56:985][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.09-03.34.58:617][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.09-03.34.58:639][  0]LogInit: Using OS detected language (zh-TW).
+[2021.08.09-03.34.58:639][  0]LogInit: Using OS detected locale (zh-TW).
+[2021.08.09-03.34.58:847][  0]LogTextLocalizationManager: No localization for 'zh-TW' exists, so 'en' will be used for the language.
+[2021.08.09-03.35.01:168][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.09-03.35.01:399][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.09-03.35.02:223][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.09-03.35.02:223][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.09-03.35.04:107][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.09-03.35.04:122][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.09-03.35.04:122][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.09-03.35.04:122][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.09-03.35.04:796][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2021.08.09-03.35.04:796][  0]LogD3D11RHI:       128/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.08.09-03.35.04:943][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.09-03.35.04:943][  0]LogD3D11RHI:       0/0/4046 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.09-03.35.04:943][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.09-03.35.04:958][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.09-03.35.04:958][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.09-03.35.04:959][  0]LogWindows: EnumDisplayDevices:
+[2021.08.09-03.35.04:959][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2021.08.09-03.35.04:960][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2021.08.09-03.35.04:961][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2021.08.09-03.35.04:961][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2021.08.09-03.35.04:961][  0]LogD3D11RHI:   Driver Version: 26.20.100.8142 (internal:26.20.100.8142, unified:26.20.100.8142)
+[2021.08.09-03.35.04:961][  0]LogD3D11RHI:      Driver Date: 4-11-2020
+[2021.08.09-03.35.04:961][  0]LogRHI: Texture pool is 1505 MB (70% of 2151 MB)
+[2021.08.09-03.35.06:654][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.08.09-03.35.06:815][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2021.08.09-03.35.06:815][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2021.08.09-03.35.06:816][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2021.08.09-03.35.06:854][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2021.08.09-03.35.06:854][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.09-03.35.06:854][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.09-03.35.07:201][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2021.08.09-03.35.09:109][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.09-03.35.09:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.09-03.35.09:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.09-03.35.09:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.09-03.35.09:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.09-03.35.09:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.09-03.35.09:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.09-03.35.09:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.09-03.35.09:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.09-03.35.09:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.09-03.35.09:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.09-03.35.09:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.09-03.35.09:753][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.09-03.35.09:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.09-03.35.09:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.09-03.35.09:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.09-03.35.09:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.09-03.35.09:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.09-03.35.09:989][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.09-03.35.10:037][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.09-03.35.10:078][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.09-03.35.10:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.09-03.35.10:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.09-03.35.10:113][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.09-03.35.10:423][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.09-03.35.11:937][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.09-03.35.11:962][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Intermediate/Shaders/WorkingDirectory/7132/).
+[2021.08.09-03.35.11:963][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/user/AppData/Local/Temp/UnrealShaderWorkingDir/E90600904ABF06C64C941EA370D0A01E/'.
+[2021.08.09-03.35.11:963][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.09-03.35.11:963][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.09-03.35.14:407][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.09-03.35.15:550][  0]LogDerivedDataCache: Loaded boot cache 1.11s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.09-03.35.15:550][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.09-03.35.15:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.09-03.35.15:550][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.09-03.35.15:550][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.09-03.35.15:550][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.09-03.35.15:620][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.09-03.35.15:620][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.09-03.35.15:620][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.09-03.35.15:950][  0]LogDerivedDataCache: Speed tests for C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.32 seconds
+[2021.08.09-03.35.15:950][  0]LogDerivedDataCache: Display: Performance to C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=12.85ms. RandomReadSpeed=7.95MBs, RandomWriteSpeed=17.83MBs. Assigned SpeedClass 'Ok'
+[2021.08.09-03.35.15:951][  0]LogDerivedDataCache: Using Local data cache path C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.09-03.35.15:951][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.09-03.35.15:952][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.09-03.35.16:056][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.09-03.35.16:121][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.09-03.35.17:093][  0]LogAssetRegistry: FAssetRegistry took 0.0094 seconds to start up
+[2021.08.09-03.35.26:726][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.09-03.35.26:726][  0]LogInit: Active device profile: [0000023934CB2300][000002391AECC280 49] Windows
+[2021.08.09-03.35.26:726][  0]LogInit: Profiles: [0000023934CB2300][000002391AECC280 49] Windows, [0000023934C35500][000002391AED4400 49] WindowsNoEditor, [0000023934CB1900][000002391AED8580 49] WindowsServer, [0000023934C35E00][000002391AEDC700 49] WindowsClient, [0000023934CB0200][000002391AEE0880 49] IOS, [0000023934C37100][000002391AEE4A00 49] iPadAir, [0000023934CB0100][000002391AEE8B80 49] iPadAir2, [0000023934BE5A00][0000023933026E40 49] IPadPro, [0000023934BE5B00][0000023933022E80 49] iPadAir3, [0000023934C37D00][000002393302B000 49] iPadAir4, [0000023934BE7200][000002393302F180 49] iPadMini2, [0000023934C36000][0000023933033300 49] iPadMini3, [0000023934BE5700][0000023933037480 49] iPadMini4, [0000023934C36300][000002393303B600 49] iPadMini5, [0000023934C10F00][000002393303F840 49] iPhone6, [0000023934C11000][000002391AED1880 49] iPodTouch6, [0000023934CB1300][0000023933047AC0 49] iPhone7, [0000023934CB1200][0000023933043B00 49] iPodTouch7, [0000023934C36100][000002393304FC80 49] iPhone5S, [0000023934C13D00][0000023933052140 49] iPhone6Plus, [0000023934C34100][00000239330562C0 49] iPhone6S, [0000023934C10900][000002393305A440 49] iPhone6SPlus, [0000023934C35D00][000002393305E5C0 49] iPhone7Plus, [0000023934C13600][0000023933062740 49] iPhoneSE, [0000023934C34700][00000239330668C0 49] iPhone8, [0000023934C11200][000002393306AA40 49] iPhone8Plus, [0000023934C34B00][000002393306EBC0 49] iPhoneX, [0000023934C10B00][0000023933072D40 49] iPhoneXS, [0000023934C36700][0000023933076EC0 49] iPhoneXSMax, [0000023934C12000][000002393307B040 49] iPhoneXR, [0000023934C37700][000002393307F1C0 49] iPhone11, [0000023934C13900][0000023933083340 49] iPhone11Pro, [0000023934C37600][00000239330874C0 49] iPhone11ProMax, [0000023934C12700][000002393308B640 49] iPhoneSE2, [0000023934C37800][00000239352377C0 49] iPhone12Mini, [0000023934CB1F00][000002393304B900 49] iPhone12, [0000023934C37500][000002393523BA40 49] iPhone12Pro, [0000023934CB0800][000002393523FB80 49] iPhone12ProMax, [0000023934C35800][0000023935247D00 49] iPadPro105, [0000023934CB2D00][000002393524A1C0 49] iPadPro129, [0000023934C34F00][000002393524E340 49] iPadPro97, [0000023934CB2800][00000239352524C0 49] iPadPro2_129, [0000023934C35F00][0000023935256640 49] iPad5, [0000023934CB2B00][000002393525A7C0 49] iPad6, [0000023934C34D00][000002393525E940 49] iPad7, [0000023934CB0300][0000023935262AC0 49] iPad8, [0000023934C35300][0000023935266C40 49] iPadPro11, [0000023934CB2900][000002393526ADC0 49] iPadPro2_11, [0000023934C37400][000002393526EF40 49] iPadPro3_129, [0000023934CB0C00][00000239352730C0 49] iPadPro4_129, [0000023934C35100][0000023935277240 49] AppleTV, [0000023934CB0E00][000002393527B3C0 49] AppleTV4K, [0000023934C35C00][000002393527F540 49] TVOS, [0000023934CB1100][00000239352836C0 49] Mac, [0000023934C35000][0000023935287840 49] MacClient, [0000023934CB1000][0000023935243980 49] MacNoEditor, [0000023934C36200][000002393528BAC0 49] MacServer, [0000023934CB1700][000002393528FC00 49] Linux, [0000023934C37B00][00000239352960C0 49] LinuxAArch64, [0000023934CB1C00][000002393529A240 49] LinuxNoEditor, [0000023934C36800][000002393529E3C0 49] LinuxAArch64NoEditor, [0000023934CB1E00][00000239352A2540 49] LinuxClient, [0000023934C34600][00000239352A66C0 49] LinuxAArch64Client, [0000023934CB0B00][00000239352AA840 49] LinuxServer, [0000023934C36E00][00000239352AE9C0 49] LinuxAArch64Server, [0000023934CB1500][00000239352B2B40 49] Android, [0000023934C34200][00000239352B6CC0 49] Android_Low, [0000023934CB1B00][00000239352BAE40 49] Android_Mid, [0000023934BE6300][00000239352BEFC0 49] Android_High, [0000023934C11600][00000239352C3140 49] Android_Default, [0000023934BE4E00][00000239352C72C0 49] Android_Adreno4xx, [0000023934C11C00][00000239352CB440 49] Android_Adreno5xx_Low, [0000023934BE7300][00000239352CF5C0 49] Android_Adreno5xx, [0000023934C10500][00000239352D3740 49] Android_Adreno6xx, [0000023934BE7E00][00000239352D78C0 49] Android_Adreno6xx_Vulkan, [0000023934C11F00][0000023935293A00 49] Android_Mali_T6xx, [0000023934BE5E00][00000239352DBB40 49] Android_Mali_T7xx, [0000023934C11E00][00000239352DFC80 49] Android_Mali_T8xx, [0000023934BE6000][00000239352E2100 49] Android_Mali_G71, [0000023934C12E00][00000239352EA280 49] Android_Mali_G72, [0000023934BE7D00][00000239352EE400 49] Android_Mali_G72_Vulkan, [0000023934C10C00][00000239352F2580 49] Android_Mali_G76, [0000023934BE6700][00000239352F6700 49] Android_Mali_G76_Vulkan, [0000023934C13A00][00000239352FA880 49] Android_Mali_G77, [0000023934BE5300][00000239352FEA00 49] Android_Mali_G77_Vulkan, [0000023934C10800][0000023935302B80 49] Android_Vulkan_SM5, [0000023934BE6C00][0000023935306D00 49] Android_PowerVR_G6xxx, [0000023934C10400][000002393530AE80 49] Android_PowerVR_GT7xxx, [0000023934BE4F00][000002393530F000 49] Android_PowerVR_GE8xxx, [0000023934C12A00][0000023935313180 49] Android_PowerVR_GM9xxx, [0000023934BE6100][0000023935317300 49] Android_PowerVR_GM9xxx_Vulkan, [0000023934C13E00][000002393531B480 49] Android_TegraK1, [0000023934BE5900][000002393531F600 49] Android_Unknown_Vulkan, [0000023934C12C00][0000023935323780 49] Lumin, [0000023934BE6400][0000023935327900 49] Lumin_Desktop, [0000023934C10600][00000239352E7A40 49] HoloLens, 
+[2021.08.09-03.35.28:289][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.09-03.35.28:289][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.09-03.35.28:289][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.09-03.35.28:289][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.09-03.35.28:298][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.09-03.35.28:556][  0]LogNetVersion: FPS_HW 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 51342660)
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.194s, but failed to resolve JW_FlameDungeon.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FX_Embers" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.193s, but failed to resolve JW_FlameDungeon.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "JW_FlameDungeon.FX.SM_FogPlane02" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.227s, but failed to resolve StaticMesh'FX_Meshes_IB.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes_IB.SM_Debris_Box_RadialFull'" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.209s, but failed to resolve JW_Ice_Mountain.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.202s, but failed to resolve FX_Meshes.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.195s, but failed to resolve FX_Meshes.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "FX_Meshes.UI.SM_SelectionMesh_01" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.199s, but failed to resolve 'FX_Ambient.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "'FX_Ambient.Meshes.SM_Bats'" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.199s, but failed to resolve CastleEffects.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "CastleEffects.TouchToMoveArrow" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.196s to resolve m_FogSheet_02.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.218s, but failed to resolve StaticMesh'FX_Meshes.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "StaticMesh'FX_Meshes.Fire.SM_Dungeon_Pipes_Lava01_Cool'" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.192s, but failed to resolve FX_Test_LAN.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "FX_Test_LAN.Meshes.SM_IceWall01" could not be resolved.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Asset path "m_FogSheet_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.35.56:395][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.203s to resolve m_FogSheet_02.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.218s to resolve m_FogSheet_02.
+[2021.08.09-03.35.56:395][  0]LogPackageName: SearchForPackageOnDisk took   0.219s to resolve m_FogSheet_02.
+[2021.08.09-03.35.56:395][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.08.09-03.35.56:608][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.142299 seconds
+[2021.08.09-03.35.56:614][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.08.09-03.35.56:694][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.08.09-03.35.56:694][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.09-03.36.05:185][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.36.05:185][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.36.05:185][  0]LogPackageName: Warning: Asset path "S_Survival_CA_Chicken_02.SM.S_Survival_CA_Chicken_02" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.36.05:185][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.36.05:185][  0]LogPackageName: SearchForPackageOnDisk took   0.214s, but failed to resolve JW_Ice_Mountain.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2021.08.09-03.36.05:186][  0]LogPackageName: SearchForPackageOnDisk took   0.184s to resolve S_Survival_CA_Chicken_02.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2021.08.09-03.36.05:186][  0]LogPackageName: SearchForPackageOnDisk took   0.214s, but failed to resolve JW_Ice_Mountain.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Asset path "JW_Ice_Mountain.Mesh.SM_SnowBoulder" could not be resolved.
+[2021.08.09-03.36.05:186][  0]LogPackageName: SearchForPackageOnDisk took   0.202s, but failed to resolve Env_ALL_Artifacts.
+[2021.08.09-03.36.05:186][  0]LogPackageName: Warning: Asset path "Env_ALL_Artifacts.Mesh.Env_ALL_Terminus001" could not be resolved.
+[2021.08.09-03.36.09:739][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.09-03.36.09:746][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.09-03.36.11:550][  0]SourceControl: Source control is disabled
+[2021.08.09-03.36.11:559][  0]SourceControl: Source control is disabled
+[2021.08.09-03.36.11:756][  0]SourceControl: Source control is disabled
+[2021.08.09-03.36.11:781][  0]SourceControl: Source control is disabled
+[2021.08.09-03.36.11:804][  0]SourceControl: Source control is disabled
+[2021.08.09-03.36.11:834][  0]LogUProjectInfo: Found projects:
+[2021.08.09-03.36.11:880][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.09-03.36.11:883][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.09-03.36.14:589][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.09-03.36.14:915][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.09-03.36.14:915][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.09-03.36.15:506][  0]LogCollectionManager: Loaded 0 collections in 0.003761 seconds
+[2021.08.09-03.36.15:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Collections/' took 0.00s
+[2021.08.09-03.36.15:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/Developers/user/Collections/' took 0.00s
+[2021.08.09-03.36.15:748][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/Collections/' took 0.00s
+[2021.08.09-03.36.15:748][  0]LogOcInput: OculusInput pre-init called
+[2021.08.09-03.36.15:804][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.08.09-03.36.15:804][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.08.09-03.36.16:790][  0]LogEngine: Initializing Engine...
+[2021.08.09-03.36.16:850][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.08.09-03.36.16:850][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.09-03.36.16:857][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2021.08.09-03.36.17:158][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.09-03.36.17:378][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.09-03.36.17:379][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.09-03.36.17:485][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.09-03.36.17:485][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-03.36.17:486][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-03.36.17:486][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-03.36.17:486][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-03.36.17:900][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-03.36.17:900][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-03.36.18:401][  0]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-03.36.18:450][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-03.36.18:452][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-03.36.18:452][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-03.36.18:453][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-03.36.18:453][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-03.36.18:453][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-03.36.18:454][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-03.36.18:454][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-03.36.18:454][  0]LogInit: FAudioDevice initialized.
+[2021.08.09-03.36.18:478][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.09-03.36.18:478][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.09-03.36.19:025][  0]LogDerivedDataCache: Saved boot cache 0.55s 77MB C:/Users/user/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.09-03.36.19:029][  0]LogInit: Texture streaming: Enabled
+[2021.08.09-03.36.19:411][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.09-03.36.19:487][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.09-03.36.19:487][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.09-03.36.19:505][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.09-03.36.19:790][  0]LogInit: Transaction tracking system initialized
+[2021.08.09-03.36.20:277][  0]BlueprintLog: New page: Editor Load
+[2021.08.09-03.36.21:685][  0]LocalizationService: Localization service is disabled
+[2021.08.09-03.36.22:294][  0]TimingProfiler: Initialize
+[2021.08.09-03.36.22:297][  0]TimingProfiler: OnSessionChanged
+[2021.08.09-03.36.22:297][  0]LoadingProfiler: Initialize
+[2021.08.09-03.36.22:298][  0]LoadingProfiler: OnSessionChanged
+[2021.08.09-03.36.22:299][  0]NetworkingProfiler: Initialize
+[2021.08.09-03.36.22:300][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.09-03.36.22:300][  0]MemoryProfiler: Initialize
+[2021.08.09-03.36.22:300][  0]MemoryProfiler: OnSessionChanged
+[2021.08.09-03.36.23:183][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.09-03.36.23:184][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.09-03.36.24:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/' took 0.05s
+[2021.08.09-03.36.24:671][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.09-03.36.24:671][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.09-03.36.29:555][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.09-03.36.29:733][  0]SourceControl: Source control is disabled
+[2021.08.09-03.36.29:804][  0]LogUnrealEdMisc: Loading editor; pre map load, took 210.729
+[2021.08.09-03.36.29:849][  0]Cmd: MAP LOAD FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.09-03.36.29:873][  0]LightingResults: New page: Lighting Build
+[2021.08.09-03.36.29:946][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-03.36.29:946][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.36.29:946][  0]MapCheck: New page: Map Check
+[2021.08.09-03.36.29:946][  0]LightingResults: New page: Lighting Build
+[2021.08.09-03.36.29:956][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.08.09-03.36.31:040][  0]LogLinker: Warning: [AssetLog] C:\Users\user\Desktop\HW_FPS\FPS_HW.uproject\FPS_HW\Content\地圖\遊戲場景.umap: Failed to load '/Game/地圖/遊戲場景_BuiltData': Can't find file.
+[2021.08.09-03.36.31:040][  0]LogLinker: Warning: [AssetLog] C:\Users\user\Desktop\HW_FPS\FPS_HW.uproject\FPS_HW\Content\地圖\遊戲場景.umap: Failed to load '/Game/地圖/遊戲場景_BuiltData': Can't find file.
+[2021.08.09-03.36.31:179][  0]LogLinker: Warning: [AssetLog] C:\Users\user\Desktop\HW_FPS\FPS_HW.uproject\FPS_HW\Content\地圖\遊戲場景.umap: Failed to load '/Game/地圖/遊戲場景_BuiltData': Can't find file.
+[2021.08.09-03.36.32:486][  0]LogLinker: Warning: [AssetLog] C:\Users\user\Desktop\HW_FPS\FPS_HW.uproject\FPS_HW\Content\地圖\遊戲場景.umap: Failed to load '/Game/地圖/遊戲場景_BuiltData': Can't find file.
+[2021.08.09-03.36.32:486][  0]LoadErrors: Failed to load /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData Referenced by PersistentLevel
+[2021.08.09-03.36.41:029][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '遊戲場景'.
+[2021.08.09-03.36.41:057][  0]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-03.36.41:455][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.09-03.36.41:497][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.08.09-03.36.41:514][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.09-03.36.41:522][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.199ms to complete.
+[2021.08.09-03.36.41:522][  0]LogFileHelpers: Loading map '遊戲場景' took 11.698
+[2021.08.09-03.36.41:575][  0]LogUnrealEdMisc: Total Editor Startup Time, took 222.570
+[2021.08.09-03.36.42:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.36.42:148][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.36.42:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.36.42:163][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.36.42:412][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0210 seconds. Added 3601 classes and 859 folders.
+[2021.08.09-03.36.42:566][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.08.09-03.36.42:653][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.09-03.36.42:653][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:653][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-03.36.42:653][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.09-03.36.42:675][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.09-03.36.42:675][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:675][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.09-03.36.42:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.09-03.36.42:695][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.09-03.36.42:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.09-03.36.42:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.09-03.36.42:697][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-03.36.42:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-03.36.42:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.08.09-03.36.42:708][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.09-03.36.42:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.09-03.36.42:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.08.09-03.36.42:710][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.09-03.36.42:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.09-03.36.42:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.08.09-03.36.42:713][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.09-03.36.42:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.09-03.36.42:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.08.09-03.36.42:722][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.09-03.36.42:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:723][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.09-03.36.42:723][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.08.09-03.36.42:732][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.09-03.36.42:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.09-03.36.42:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.08.09-03.36.42:766][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.09-03.36.42:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.09-03.36.42:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.08.09-03.36.42:769][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.09-03.36.42:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.09-03.36.42:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.08.09-03.36.42:772][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.09-03.36.42:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.09-03.36.42:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.08.09-03.36.42:776][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-03.36.42:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-03.36.42:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.08.09-03.36.42:786][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.09-03.36.42:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.09-03.36.42:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.08.09-03.36.42:788][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.09-03.36.42:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.09-03.36.42:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.08.09-03.36.42:791][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.09-03.36.42:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-03.36.42:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.08.09-03.36.42:794][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.09-03.36.42:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.09-03.36.42:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2021.08.09-03.36.42:805][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.09-03.36.42:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.09-03.36.42:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.08.09-03.36.42:815][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-03.36.42:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-03.36.42:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2021.08.09-03.36.42:818][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-03.36.42:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-03.36.42:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2021.08.09-03.36.42:824][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.09-03.36.42:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.09-03.36.42:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.08.09-03.36.42:833][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.09-03.36.42:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.09-03.36.42:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2021.08.09-03.36.42:836][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.09-03.36.42:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.09-03.36.42:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.08.09-03.36.42:842][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.09-03.36.42:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.09-03.36.42:842][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2021.08.09-03.36.42:871][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.09-03.36.42:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.09-03.36.42:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2021.08.09-03.36.42:889][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.09-03.36.42:889][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.09-03.36.42:889][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.09-03.36.42:889][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2021.08.09-03.36.46:359][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2021.08.09-03.36.46:362][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 2 classes and 0 folders.
+[2021.08.09-03.36.46:575][  0]LogSlate: Took 0.037426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.09-03.36.46:626][  0]LogSlate: Took 0.050161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.08.09-03.36.46:642][  0]LogSlate: Took 0.013074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.09-03.36.46:672][  0]LogSlate: Took 0.009664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.09-03.36.47:035][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.08.09-03.36.47:793][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.08.09-03.36.47:799][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.08.09-03.36.47:799][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.08.09-03.36.47:799][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.09-03.36.47:799][  0]LogLoad: (Engine Initialization) Total time: 228.79 seconds
+[2021.08.09-03.36.47:799][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.09-03.36.47:799][  0]LogInit: First time updating LLM stats...
+[2021.08.09-03.36.48:039][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.09-03.36.48:779][  0]LogSlate: Took 0.022444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.09-03.36.48:849][  1]LogAssetRegistry: Asset discovery search completed in 91.7580 seconds
+[2021.08.09-03.36.48:914][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2021.08.09-03.36.54:537][ 18]LogSlate: Window 'Message Log' being destroyed
+[2021.08.09-03.36.54:541][ 18]LogSlate: Window 'Message Log' being destroyed
+[2021.08.09-03.37.02:431][186]LogEditorViewport: Clicking on Actor (LMB): BP_子彈箱_C (BP_子彈箱5)
+[2021.08.09-03.37.20:697][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.09-03.37.25:113][817]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.09-03.38.03:989][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2021.08.09-03.38.07:078][886]LogSlate: Took 0.038663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.09-03.38.07:096][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.09-03.38.07:106][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.08.09-03.38.07:140][886]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景546612024945297139F15E88E5DE357C.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap'
+[2021.08.09-03.38.07:156][886]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.08.09-03.38.07:156][886]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.08.09-03.38.22:498][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.08.09-03.38.22:498][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.08.09-03.38.22:498][ 63]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.08.09-03.38.22:596][ 64]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00FD
+[2021.08.09-03.38.22:596][ 64]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:018D
+[2021.08.09-03.38.22:596][ 64]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:01BF
+[2021.08.09-03.38.24:281][ 81]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.38.24:553][ 81]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2021.08.09-03.38.25:775][ 81]LogSlate: Took 0.021742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.09-03.38.27:560][244]LogSlate: Took 0.029921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.09-03.39.50:758][  2]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/怪物/zombie_Skeleton.zombie_Skeleton
+[2021.08.09-03.39.51:116][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.08.09-03.39.52:039][  2]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-03.39.52:124][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2021.08.09-03.39.52:162][  2]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微軟注音).
+[2021.08.09-03.40.38:432][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/zombie_Skeleton" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/怪物/zombie_Skeleton.uasset" SILENT=true
+[2021.08.09-03.40.38:435][838]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/zombie_Skeleton586BC32746FB0819E0838B8623E19922.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/怪物/zombie_Skeleton.uasset'
+[2021.08.09-03.40.38:452][838]AssetCheck: New page: Asset Save: zombie_Skeleton
+[2021.08.09-03.40.38:452][838]LogContentValidation: Display: Validating Skeleton /Game/怪物/zombie_Skeleton.zombie_Skeleton
+[2021.08.09-03.41.12:891][979]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:897).
+[2021.08.09-03.41.13:240][986]LogSlate: Window 'zombie_Skeleton' being destroyed
+[2021.08.09-03.41.15:167][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/zombie_Skeleton" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/怪物/zombie_Skeleton.uasset" SILENT=true
+[2021.08.09-03.41.15:171][ 22]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/zombie_Skeleton17C52472422CA2F358DA02BD00ADCF89.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/怪物/zombie_Skeleton.uasset'
+[2021.08.09-03.41.15:184][ 22]AssetCheck: New page: Asset Save: zombie_Skeleton
+[2021.08.09-03.41.15:184][ 22]LogContentValidation: Display: Validating Skeleton /Game/怪物/zombie_Skeleton.zombie_Skeleton
+[2021.08.09-03.43.58:201][971]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.43.58:348][971]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.08.09-03.43.58:893][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.43.58:939][984]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物16FFD7434EFC9374498D20A70E9A602E.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.43.58:955][984]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.43.58:955][984]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.45.21:000][129]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.45.21:076][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.08.09-03.45.21:912][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.45.21:955][207]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物8878F7644497B68BC0C74FB7C7B429F6.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.45.21:975][207]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.45.21:975][207]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.45.23:334][356]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-03.45.23:341][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-03.45.23:360][356]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午7:45:23)
+[2021.08.09-03.45.23:362][356]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.08.09-03.45.23:363][356]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.08.09-03.45.23:363][356]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-03.45.23:375][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011447s)
+[2021.08.09-03.45.23:376][356]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-03.45.23:376][356]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2021.08.09-03.45.23:376][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.012826s)
+[2021.08.09-03.45.23:407][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.08.09-03.45.23:408][356]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-03.45.23:408][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-03.45.23:408][356]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-03.45.23:408][356]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-03.45.23:411][356]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-03.45.23:411][356]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-03.45.23:430][356]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-03.45.23:431][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-03.45.23:431][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-03.45.23:431][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-03.45.23:431][356]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-03.45.23:431][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-03.45.23:431][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-03.45.23:447][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-03.45.23:447][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-03.45.23:447][356]LogInit: FAudioDevice initialized.
+[2021.08.09-03.45.23:447][356]LogAudio: Display: Audio Device (ID: 2) registered with world '遊戲場景'.
+[2021.08.09-03.45.23:528][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.45.23:529][356]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-03.45.23:535][356]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-11.45.23
+[2021.08.09-03.45.23:536][356]LogWorld: Bringing up level for play took: 0.005748
+[2021.08.09-03.45.23:536][356]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.08.09-03.45.23:777][356]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2021.08.09-03.45.23:791][356]PIE: Server logged in
+[2021.08.09-03.45.23:794][356]PIE: Play in editor total start time 0.455 seconds.
+[2021.08.09-03.45.24:285][358]LogRenderer: Reallocating scene render targets to support 1280x884 Format 10 NumSamples 1 (Frame:1).
+[2021.08.09-03.45.31:422][493]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.33:222][527]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.34:215][546]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.36:880][597]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.36:984][599]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.37:036][600]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.37:093][601]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.37:146][602]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.37:355][606]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.45.41:563][687]LogSlate: Window 'FPS_HW Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-03.45.41:900][687]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-03.45.42:080][687]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-03.45.42:124][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.45.42:219][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-03.45.42:360][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.45.42:859][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-03.45.43:249][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-03.45.43:308][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-03.45.44:042][687]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2021.08.09-03.45.44:129][688]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.09-03.46.37:137][839]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.46.37:384][839]LogUObjectHash: Compacting FUObjectHashTables data took   9.24ms
+[2021.08.09-03.46.37:864][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.46.37:922][851]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物ABC6EEC640BFDB837BD4F79E659BB850.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.46.37:938][851]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.46.37:938][851]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.46.40:293][918]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-03.46.40:325][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-03.46.40:325][918]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午7:46:40)
+[2021.08.09-03.46.40:326][918]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-03.46.40:337][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010990s)
+[2021.08.09-03.46.40:338][918]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-03.46.40:338][918]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2021.08.09-03.46.40:338][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.012610s)
+[2021.08.09-03.46.40:369][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.08.09-03.46.40:369][918]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-03.46.40:369][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-03.46.40:369][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-03.46.40:370][918]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-03.46.40:370][918]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-03.46.40:372][918]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-03.46.40:372][918]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-03.46.40:392][918]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-03.46.40:393][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-03.46.40:393][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-03.46.40:393][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-03.46.40:393][918]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-03.46.40:393][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-03.46.40:393][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-03.46.40:408][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-03.46.40:408][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-03.46.40:408][918]LogInit: FAudioDevice initialized.
+[2021.08.09-03.46.40:408][918]LogAudio: Display: Audio Device (ID: 3) registered with world '遊戲場景'.
+[2021.08.09-03.46.40:465][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.46.40:465][918]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-03.46.40:476][918]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-11.46.40
+[2021.08.09-03.46.40:477][918]LogWorld: Bringing up level for play took: 0.010568
+[2021.08.09-03.46.40:477][918]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.08.09-03.46.40:485][918]PIE: Server logged in
+[2021.08.09-03.46.40:485][918]PIE: Play in editor total start time 0.161 seconds.
+[2021.08.09-03.46.47:833][ 57]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.08.09-03.46.54:446][185]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.02:805][342]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.03:717][359]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.05:476][394]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.06:425][413]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.06:576][416]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.09:059][465]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.09:210][468]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.11:026][504]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.12:076][525]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.14:649][576]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.15:695][597]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.15:848][600]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.18:310][649]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.18:509][653]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.20:976][702]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.21:129][705]LogBlueprintUserMessages: [BP_怪物_8] 碰到玩家
+[2021.08.09-03.47.23:492][751]LogSlate: Window 'FPS_HW Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-03.47.23:581][751]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-03.47.23:582][751]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-03.47.23:583][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.47.23:597][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-03.47.23:619][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.47.23:649][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-03.47.23:649][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-03.47.23:650][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-03.47.23:679][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.08.09-03.47.23:695][752]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.08.09-03.48.22:526][284]LogSlate: Took 0.046272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.09-03.48.34:166][597]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.48.34:309][597]LogUObjectHash: Compacting FUObjectHashTables data took  10.38ms
+[2021.08.09-03.48.34:806][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.48.34:863][637]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物AF9820384996845118C9D2AA42BF6891.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.48.34:877][637]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.48.34:877][637]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.48.39:700][182]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.48.39:773][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.08.09-03.48.40:484][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.48.40:534][249]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物9F24661E429E9983B3743F82F28B9806.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.48.40:547][249]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.48.40:547][249]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.49.08:955][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.08.09-03.49.08:993][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/地圖/遊戲場景_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.09-03.49.09:030][535]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景_Auto19AFF655F479C772C95520F897AB3DB96.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/地圖/遊戲場景_Auto1.umap'
+[2021.08.09-03.49.09:032][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.113
+[2021.08.09-03.49.09:032][535]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.113
+[2021.08.09-03.49.18:642][594]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.49.18:713][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.08.09-03.49.19:360][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.49.19:404][651]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物0B5293B7445070E34CC4149BFAFE73FE.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.49.19:416][651]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.49.19:416][651]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.49.35:002][361]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.49.35:119][361]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\HW_FPS\FPS_HW.uproject\FPS_HW\Content\BP\BP_怪物.uasset: [Compiler] This blueprint (self) is not a BP_玩家控制_C, therefore ' Target ' must have a connection.
+[2021.08.09-03.49.35:195][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.08.09-03.49.47:599][815]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.49.47:673][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.08.09-03.49.48:446][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.49.48:605][871]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物A09475DE42A2F4E11BC992A171996EDB.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.49.48:620][871]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.49.48:620][871]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.50.53:138][529]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-03.50.53:145][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-03.50.53:145][529]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午7:50:53)
+[2021.08.09-03.50.53:146][529]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-03.50.53:158][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012455s)
+[2021.08.09-03.50.53:159][529]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-03.50.53:160][529]LogPlayLevel: PIE: World Init took: (0.001600s)
+[2021.08.09-03.50.53:160][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.014243s)
+[2021.08.09-03.50.53:195][529]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.08.09-03.50.53:196][529]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-03.50.53:196][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-03.50.53:196][529]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-03.50.53:196][529]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-03.50.53:199][529]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-03.50.53:199][529]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-03.50.53:220][529]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-03.50.53:220][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-03.50.53:220][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-03.50.53:220][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-03.50.53:221][529]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-03.50.53:221][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-03.50.53:221][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-03.50.53:238][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-03.50.53:238][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-03.50.53:238][529]LogInit: FAudioDevice initialized.
+[2021.08.09-03.50.53:238][529]LogAudio: Display: Audio Device (ID: 4) registered with world '遊戲場景'.
+[2021.08.09-03.50.53:311][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-03.50.53:311][529]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-03.50.53:321][529]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-11.50.53
+[2021.08.09-03.50.53:322][529]LogWorld: Bringing up level for play took: 0.008984
+[2021.08.09-03.50.53:322][529]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.08.09-03.50.53:334][529]PIE: Server logged in
+[2021.08.09-03.50.53:336][529]PIE: Play in editor total start time 0.191 seconds.
+[2021.08.09-03.51.15:300][942]LogSlate: Window 'FPS_HW Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-03.51.15:404][942]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-03.51.15:404][942]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-03.51.15:406][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.51.15:418][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-03.51.15:445][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-03.51.15:481][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-03.51.15:482][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-03.51.15:482][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-03.51.15:507][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.09-03.51.15:528][943]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.08.09-03.51.27:739][296]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.51.27:812][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.08.09-03.51.28:332][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.51.28:376][336]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物C6BE239D4B8EC214124B929A8AAF63D8.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.51.28:394][336]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.51.28:394][336]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.54.21:382][629]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.54.21:394][629]LogBlueprint: Error: [AssetLog] C:\Users\user\Desktop\HW_FPS\FPS_HW.uproject\FPS_HW\Content\BP\BP_怪物.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2021.08.09-03.54.21:590][629]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.08.09-03.54.21:943][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.54.21:989][649]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物8ED6A628416EC2225472D1B4A829CE81.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.54.22:007][649]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.54.22:007][649]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.56.52:344][785]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.56.52:424][785]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.08.09-03.56.52:797][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.56.52:844][810]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物8D47717C4A782867F2D27FB574472CFC.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.56.52:861][810]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.56.52:861][810]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.57.35:433][328]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.57.35:509][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.08.09-03.57.36:178][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.57.36:226][388]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物CD5EE3E441A9E4B52485829B978A1197.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.57.36:241][388]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.57.36:241][388]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-03.58.42:508][953]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-03.58.42:585][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.08.09-03.58.43:157][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-03.58.43:206][  1]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物A9F886AE47C27B1ED29DA292086F0D43.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-03.58.43:221][  1]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-03.58.43:221][  1]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.00.09:373][158]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.09-04.00.11:286][383]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-04.00.11:367][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.08.09-04.00.12:014][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.00.12:072][440]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物5D6AD3AE4586B50CABDD14A7218FE85E.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.00.12:086][440]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.00.12:086][440]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.01.27:160][268]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-04.01.27:237][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.08.09-04.01.27:963][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.01.28:010][324]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物C91246FD497AFC9C6561259E9F3C90E8.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.01.28:026][324]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.01.28:026][324]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.01.29:766][488]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-04.01.29:773][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-04.01.29:773][488]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午8:01:29)
+[2021.08.09-04.01.29:773][488]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.01.29:786][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013192s)
+[2021.08.09-04.01.29:788][488]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-04.01.29:788][488]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2021.08.09-04.01.29:788][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.015398s)
+[2021.08.09-04.01.29:824][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.08.09-04.01.29:824][488]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-04.01.29:824][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-04.01.29:825][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-04.01.29:825][488]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-04.01.29:825][488]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-04.01.29:828][488]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-04.01.29:828][488]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-04.01.29:849][488]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-04.01.29:851][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-04.01.29:851][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-04.01.29:851][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-04.01.29:851][488]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-04.01.29:851][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-04.01.29:851][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-04.01.29:871][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-04.01.29:871][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-04.01.29:872][488]LogInit: FAudioDevice initialized.
+[2021.08.09-04.01.29:872][488]LogAudio: Display: Audio Device (ID: 5) registered with world '遊戲場景'.
+[2021.08.09-04.01.29:911][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-04.01.29:911][488]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-04.01.29:916][488]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-12.01.29
+[2021.08.09-04.01.29:917][488]LogWorld: Bringing up level for play took: 0.004685
+[2021.08.09-04.01.29:917][488]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.08.09-04.01.29:927][488]PIE: Server logged in
+[2021.08.09-04.01.29:929][488]PIE: Play in editor total start time 0.157 seconds.
+[2021.08.09-04.01.46:209][793]LogSlate: Window 'FPS_HW Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-04.01.46:308][793]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.01.46:308][793]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-04.01.46:309][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.01.46:322][793]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-04.01.46:347][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.01.46:380][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-04.01.46:380][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.01.46:381][793]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.01.46:409][793]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.08.09-04.01.46:435][794]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.08.09-04.01.47:679][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.01.47:723][897]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物C8B964FE42CC86EFEA019E8688840803.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.01.47:738][897]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.01.47:738][897]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.02.12:679][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.08.09-04.02.12:680][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/地圖/遊戲場景_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.09-04.02.12:713][163]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景_Auto2707E896743309D3D0E822A85D0E630F2.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/地圖/遊戲場景_Auto2.umap'
+[2021.08.09-04.02.12:714][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.066
+[2021.08.09-04.02.12:714][163]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.066
+[2021.08.09-04.02.49:761][494]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-04.02.49:837][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.08.09-04.02.50:382][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.02.50:432][535]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物818214EA4DE627BB9FF6FA96CDEC7B41.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.02.50:450][535]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.02.50:450][535]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.03.26:211][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.03.26:256][278]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物92D76A374768E7E90D79E7B9DCF1F14B.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.03.26:271][278]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.03.26:271][278]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.03.50:928][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.09-04.04.06:988][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2021.08.09-04.04.09:782][ 85]Cmd: TRANSACTION UNDO
+[2021.08.09-04.04.09:782][ 85]LogEditorTransaction: Undo Clicking on Actors
+[2021.08.09-04.04.10:004][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-04.04.11:884][152]Cmd: TRANSACTION UNDO
+[2021.08.09-04.04.11:884][152]LogEditorTransaction: Undo Rotate Actors
+[2021.08.09-04.04.12:114][152]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-04.04.13:307][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2021.08.09-04.04.14:295][189]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物2)
+[2021.08.09-04.04.15:794][215]Cmd: DELETE
+[2021.08.09-04.04.15:799][215]Cmd: ACTOR DELETE
+[2021.08.09-04.04.16:308][215]LogEditorActor: Deleted Actor: BP_怪物_C
+[2021.08.09-04.04.16:344][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.08.09-04.04.16:346][215]LogEditorActor: Deleted 1 Actors (0.198 secs)
+[2021.08.09-04.04.23:911][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2021.08.09-04.04.53:536][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (地板)
+[2021.08.09-04.05.24:752][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00FD
+[2021.08.09-04.05.24:752][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:018D
+[2021.08.09-04.05.24:752][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:01BF
+[2021.08.09-04.05.24:753][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00FD
+[2021.08.09-04.05.24:753][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:018D
+[2021.08.09-04.05.24:753][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:01BF
+[2021.08.09-04.05.24:754][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00FD
+[2021.08.09-04.05.24:754][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:018D
+[2021.08.09-04.05.24:754][425]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:01BF
+[2021.08.09-04.05.27:117][476]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00FD
+[2021.08.09-04.05.27:117][476]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:018D
+[2021.08.09-04.05.27:117][476]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:01BF
+[2021.08.09-04.05.27:117][476]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Game/地圖/遊戲場景.遊戲場景:PersistentLevel.BA_怪物動畫_2.SkeletalMeshComponent0.BA_怪物動畫_C_0
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00FD
+[2021.08.09-04.05.31:657][563]Cmd: DELETE
+[2021.08.09-04.05.31:657][563]Cmd: ACTOR DELETE
+[2021.08.09-04.05.31:664][563]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.08.09-04.05.31:729][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.08.09-04.05.31:735][563]LogEditorActor: Deleted 1 Actors (0.077 secs)
+[2021.08.09-04.06.03:678][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.09-04.06.03:718][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.08.09-04.06.03:758][128]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景936B73DA4D6F9092ADC1079611775B3D.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap'
+[2021.08.09-04.06.03:781][128]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.08.09-04.06.03:781][128]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.08.09-04.06.09:073][223]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-04.06.09:146][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-04.06.09:146][223]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午8:06:09)
+[2021.08.09-04.06.09:146][223]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.06.09:169][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022943s)
+[2021.08.09-04.06.09:170][223]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-04.06.09:171][223]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2021.08.09-04.06.09:171][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.024575s)
+[2021.08.09-04.06.09:202][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.08.09-04.06.09:202][223]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-04.06.09:203][223]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-04.06.09:203][223]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-04.06.09:203][223]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-04.06.09:206][223]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-04.06.09:206][223]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-04.06.09:227][223]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-04.06.09:227][223]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-04.06.09:227][223]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-04.06.09:227][223]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-04.06.09:228][223]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-04.06.09:228][223]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-04.06.09:228][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-04.06.09:244][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-04.06.09:244][223]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-04.06.09:244][223]LogInit: FAudioDevice initialized.
+[2021.08.09-04.06.09:244][223]LogAudio: Display: Audio Device (ID: 6) registered with world '遊戲場景'.
+[2021.08.09-04.06.09:256][223]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-04.06.09:265][223]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-12.06.09
+[2021.08.09-04.06.09:329][223]LogWorld: Bringing up level for play took: 0.071479
+[2021.08.09-04.06.09:330][223]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.08.09-04.06.09:340][223]PIE: Server logged in
+[2021.08.09-04.06.09:341][223]PIE: Play in editor total start time 0.263 seconds.
+[2021.08.09-04.07.00:089][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-04.07.00:089][305]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.07.00:089][305]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-04.07.00:090][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.07.00:149][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-04.07.00:193][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.07.00:224][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-04.07.00:224][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.07.00:225][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.07.00:245][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-04.07.00:250][305]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.08.09-04.07.00:290][306]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.08.09-04.07.14:772][576]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物2)
+[2021.08.09-04.07.23:966][750]LogEditorViewport: Clicking on Actor (LMB): BP_怪物_C (BP_怪物)
+[2021.08.09-04.07.29:563][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.09-04.07.29:596][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.08.09-04.07.29:636][855]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景0C0228DE433A74AD355C3F9B60F4236D.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap'
+[2021.08.09-04.07.29:652][855]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.08.09-04.07.29:652][855]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.08.09-04.08.23:788][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/zombie_Skeleton" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/怪物/zombie_Skeleton.uasset" SILENT=true
+[2021.08.09-04.08.23:792][ 87]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/zombie_SkeletonDCB61E694C1F92D22730CF94FC83455E.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/怪物/zombie_Skeleton.uasset'
+[2021.08.09-04.08.23:804][ 87]AssetCheck: New page: Asset Save: zombie_Skeleton
+[2021.08.09-04.08.23:804][ 87]LogContentValidation: Display: Validating Skeleton /Game/怪物/zombie_Skeleton.zombie_Skeleton
+[2021.08.09-04.08.24:806][108]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-04.08.24:807][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.08.27:061][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.08.27:107][310]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物B1B1D71A4273A9EF4D499C8CC51530F4.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.08.27:120][310]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.08.27:120][310]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.08.27:932][397]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-04.08.27:932][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.08.35:014][468]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.10.57:968][496]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.10.58:428][496]LogUObjectHash: Compacting FUObjectHashTables data took   8.36ms
+[2021.08.09-04.10.58:861][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.10.59:066][538]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面E1AA95164E8ED335D105E38747FF3434.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.10.59:083][538]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.10.59:084][538]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.12.34:028][982]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.12.34:158][982]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.08.09-04.12.34:595][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.12.34:657][ 24]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面CB56B36741A87AAA07663197E63805F3.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.12.34:673][ 24]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.12.34:673][ 24]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.13.58:720][895]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.13.58:796][895]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.09-04.13.59:196][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.13.59:260][932]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面5D83FD344CA42BE72880AD89A2AA3BFF.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.13.59:278][932]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.13.59:278][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.14.10:002][182]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.14.10:073][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.08.09-04.14.10:811][253]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.14.10:881][253]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面8D72E8FA405470B521A8A1997AA36D9D.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.14.10:895][253]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.14.10:895][253]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.14.54:309][765]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.14.54:383][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.08.09-04.14.54:878][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.14.54:942][812]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面4D839FBE4892BD84D2921EBEA361A505.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.14.54:956][812]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.14.54:956][812]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.14.55:629][874]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-04.14.55:637][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-04.14.55:637][874]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午8:14:55)
+[2021.08.09-04.14.55:637][874]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.14.55:652][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015153s)
+[2021.08.09-04.14.55:653][874]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-04.14.55:654][874]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2021.08.09-04.14.55:654][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.016775s)
+[2021.08.09-04.14.55:688][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.08.09-04.14.55:688][874]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-04.14.55:688][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-04.14.55:688][874]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-04.14.55:688][874]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-04.14.55:692][874]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-04.14.55:692][874]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-04.14.55:711][874]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-04.14.55:712][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-04.14.55:712][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-04.14.55:712][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-04.14.55:712][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-04.14.55:712][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-04.14.55:712][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-04.14.55:727][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-04.14.55:727][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-04.14.55:727][874]LogInit: FAudioDevice initialized.
+[2021.08.09-04.14.55:727][874]LogAudio: Display: Audio Device (ID: 7) registered with world '遊戲場景'.
+[2021.08.09-04.14.55:765][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-04.14.55:765][874]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-04.14.55:787][874]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-12.14.55
+[2021.08.09-04.14.55:790][874]LogWorld: Bringing up level for play took: 0.023117
+[2021.08.09-04.14.55:790][874]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.08.09-04.14.55:799][874]PIE: Server logged in
+[2021.08.09-04.14.55:800][874]PIE: Play in editor total start time 0.165 seconds.
+[2021.08.09-04.15.13:063][190]LogSlate: Window 'FPS_HW Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.09-04.15.13:158][190]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.15.13:159][190]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-04.15.13:162][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.15.13:176][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-04.15.13:225][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.15.13:257][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-04.15.13:260][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.15.13:261][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.15.13:288][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.08.09-04.15.13:314][191]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.08.09-04.16.37:867][346]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.16.37:927][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.08.09-04.16.38:329][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.16.38:393][375]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面C02CE0A445DE555D95609D8A29935673.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.16.38:406][375]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.16.38:406][375]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.16.42:087][707]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.16.42:157][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.08.09-04.16.42:661][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.16.42:726][745]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面A97BF4E6455350EFA7280BB1778636BB.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.16.42:737][745]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.16.42:737][745]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.16.51:594][566]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.16.51:665][566]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.08.09-04.16.52:212][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.16.52:277][612]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面73AAB95D4E88DACB97327C997C048E7D.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.16.52:293][612]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.16.52:294][612]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.18.08:609][538]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.18.08:691][538]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.08.09-04.18.08:801][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.08.09-04.18.08:802][539]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.035
+[2021.08.09-04.18.08:802][539]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲介面] ([1] browsable assets)...
+[2021.08.09-04.18.08:802][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲介面]
+[2021.08.09-04.18.08:802][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.08.09-04.18.08:870][539]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面_Auto350F1A20C4A4E25C0F5D2708B0D7A4E41.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/BP/BP_遊戲介面_Auto3.uasset'
+[2021.08.09-04.18.08:871][539]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.08.09-04.18.09:246][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.18.09:313][579]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面086184E945D77EC12FD00F9DFC0D0659.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.18.09:329][579]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.18.09:329][579]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.19.05:853][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.20.13:654][746]BlueprintLog: New page: Compile BP_怪物
+[2021.08.09-04.20.13:868][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.08.09-04.20.14:417][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.08.09-04.20.14:484][757]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_怪物B983628A4179B85333D7B0925262832A.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_怪物.uasset'
+[2021.08.09-04.20.14:498][757]AssetCheck: New page: Asset Save: BP_怪物
+[2021.08.09-04.20.14:498][757]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.08.09-04.20.18:810][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.21.18:596][704]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.09-04.21.18:669][704]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.08.09-04.21.19:078][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.21.19:091][732]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式B216D06748E1D984CD53978AA13AF562.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.21.19:103][732]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.21.19:103][732]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.22.31:104][266]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.09-04.22.31:175][266]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.08.09-04.22.31:796][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.22.31:811][323]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式60B3B9B74E7BFBE6E7401CB64E2888D1.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.22.31:824][323]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.22.31:824][323]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.25.41:554][283]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.09-04.25.41:627][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.09-04.25.42:095][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.25.42:110][320]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式D733B3314477D96128D7B29CBCFC463F.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.25.42:124][320]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.25.42:124][320]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.26.02:610][592]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.09-04.26.02:677][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.08.09-04.26.03:113][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.26.03:129][624]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式B946D0C7426A6AADD93E11ACDB9FB54E.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.26.03:144][624]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.26.03:144][624]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.26.24:195][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.26.24:211][  4]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式A787966A41002287F6208E93EF5D8519.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.26.24:225][  4]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.26.24:225][  4]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.26.33:628][705]LogSlate: Window 'Delete Variable' being destroyed
+[2021.08.09-04.27.16:014][559]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.27.16:097][559]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.08.09-04.27.16:478][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.27.16:544][595]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面6E42DBA245E92054215F90AED9A95D91.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.27.16:563][595]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.27.16:564][595]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.28.09:312][753]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2021.08.09-04.28.09:367][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.08.09-04.28.09:369][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/地圖/遊戲場景_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.08.09-04.28.09:407][753]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景_Auto4207D77834DEA7D0B00E2BA89FA13BEC8.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/地圖/遊戲場景_Auto4.umap'
+[2021.08.09-04.28.09:408][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.086
+[2021.08.09-04.28.09:408][753]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2021.08.09-04.28.09:409][753]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP/BP_遊戲模式] ([1] browsable assets)...
+[2021.08.09-04.28.09:409][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BP_遊戲模式]
+[2021.08.09-04.28.09:409][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/BP/BP_遊戲模式_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.08.09-04.28.09:423][753]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式_Auto4A4B92FC24D47E3CAF939ECB3249EF014.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/Autosaves/Game/BP/BP_遊戲模式_Auto4.uasset'
+[2021.08.09-04.28.09:424][753]LogFileHelpers: Auto-saving content packages took 0.015
+[2021.08.09-04.28.58:627][533]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.09-04.28.58:699][533]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.08.09-04.28.59:131][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.28.59:147][566]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式A00699DD407D16782DFF6FAF4BC5204A.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.28.59:163][566]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.28.59:163][566]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.29.02:887][963]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.09-04.29.04:423][139]BlueprintLog: New page: Compile BP_遊戲模式
+[2021.08.09-04.29.04:492][139]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.08.09-04.29.04:965][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲模式" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset" SILENT=true
+[2021.08.09-04.29.04:981][178]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲模式B786B8724F7D5709617940A64264B84D.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲模式.uasset'
+[2021.08.09-04.29.04:996][178]AssetCheck: New page: Asset Save: BP_遊戲模式
+[2021.08.09-04.29.04:996][178]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_遊戲模式.BP_遊戲模式
+[2021.08.09-04.29.59:597][149]BlueprintLog: New page: Compile BP_遊戲介面
+[2021.08.09-04.29.59:678][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.08.09-04.30.00:062][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.30.00:128][184]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面0BF1321844A3492E5038719A5A2FA92F.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.30.00:143][184]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.30.00:143][184]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.30.29:213][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.09-04.30.29:259][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2021.08.09-04.30.29:302][677]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景5A724C5846A8A935FA7F6A9B05BC2428.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap'
+[2021.08.09-04.30.29:336][677]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.08.09-04.30.29:336][677]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.08.09-04.30.31:264][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_遊戲介面" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset" SILENT=true
+[2021.08.09-04.30.31:329][812]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/BP_遊戲介面C41F11E84247B153C768F18D83826D1E.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/BP/BP_遊戲介面.uasset'
+[2021.08.09-04.30.31:347][812]AssetCheck: New page: Asset Save: BP_遊戲介面
+[2021.08.09-04.30.31:347][812]LogContentValidation: Display: Validating WidgetBlueprint /Game/BP/BP_遊戲介面.BP_遊戲介面
+[2021.08.09-04.30.42:527][182]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-04.30.42:534][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-04.30.42:535][182]PIE: New page: PIE session: 遊戲場景 (2021年8月9日 下午8:30:42)
+[2021.08.09-04.30.42:535][182]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.30.42:552][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016791s)
+[2021.08.09-04.30.42:553][182]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.08.09-04.30.42:553][182]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2021.08.09-04.30.42:553][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.018338s)
+[2021.08.09-04.30.42:603][182]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.08.09-04.30.42:605][182]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-04.30.42:605][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-04.30.42:605][182]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-04.30.42:605][182]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-04.30.42:608][182]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-04.30.42:608][182]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-04.30.42:628][182]LogAudioMixer: Display: Using Audio Device 揚聲器/聽筒 (Realtek Audio)
+[2021.08.09-04.30.42:628][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-04.30.42:628][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-04.30.42:628][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-04.30.42:629][182]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-04.30.42:629][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-04.30.42:629][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-04.30.42:643][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-04.30.42:643][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-04.30.42:643][182]LogInit: FAudioDevice initialized.
+[2021.08.09-04.30.42:644][182]LogAudio: Display: Audio Device (ID: 8) registered with world '遊戲場景'.
+[2021.08.09-04.30.42:655][182]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.08.09-04.30.42:664][182]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.08.09-12.30.42
+[2021.08.09-04.30.42:665][182]LogWorld: Bringing up level for play took: 0.009279
+[2021.08.09-04.30.42:665][182]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.09-04.30.42:755][182]PIE: Server logged in
+[2021.08.09-04.30.42:757][182]PIE: Play in editor total start time 0.223 seconds.
+[2021.08.09-04.31.22:222][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-04.31.22:222][ 45]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.08.09-04.31.22:222][ 45]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-04.31.22:225][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.31.22:270][ 45]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-04.31.22:311][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-04.31.22:348][ 45]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-04.31.22:348][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.31.22:350][ 45]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-04.31.22:370][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-04.31.22:375][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.08.09-04.31.22:412][ 46]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.09-04.31.24:265][ 82]Cmd: DELETE
+[2021.08.09-04.31.24:265][ 82]Cmd: ACTOR DELETE
+[2021.08.09-04.31.24:278][ 82]LogEditorActor: Deleted Actor: BP_怪物_C
+[2021.08.09-04.31.24:346][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2021.08.09-04.31.24:348][ 82]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2021.08.09-04.31.26:214][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.09-04.31.26:249][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.09-04.31.26:287][118]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/遊戲場景E2B8248D47585E84A39C57B1718D80E6.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/地圖/遊戲場景.umap'
+[2021.08.09-04.31.26:305][118]AssetCheck: New page: Asset Save: 遊戲場景
+[2021.08.09-04.31.26:305][118]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.08.09-04.32.06:095][732]LogContentBrowser: Deferred new asset file creation: NewTextureRenderTarget2D
+[2021.08.09-04.32.06:123][732]LogContentBrowser: Creating deferred item: NewTextureRenderTarget2D
+[2021.08.09-04.32.13:478][862]LogContentBrowser: Attempting asset rename: NewTextureRenderTarget2D -> 小地圖
+[2021.08.09-04.32.13:633][862]LogContentBrowser: End creating deferred item NewTextureRenderTarget2D
+[2021.08.09-04.32.38:483][277]LogContentBrowser: Attempting asset rename: 小地圖 -> RT_小地圖
+[2021.08.09-04.32.39:000][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/素材/RT_小地圖" FILE="../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/素材/RT_小地圖.uasset" SILENT=true
+[2021.08.09-04.32.39:038][277]LogSavePackage: Moving '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Saved/RT_小地圖A347B4944595A26C35F3949778C21DF4.tmp' to '../../../../../../Users/user/Desktop/HW_FPS/FPS_HW.uproject/FPS_HW/Content/素材/RT_小地圖.uasset'
+[2021.08.09-04.32.39:384][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.08.09-04.32.39:429][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.08.09-04.32.39:463][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.09-04.32.39:916][277]AssetCheck: New page: Asset Save: RT_小地圖
+[2021.08.09-04.32.39:916][277]LogContentValidation: Display: Validating TextureRenderTarget2D /Game/素材/RT_小地圖.RT_小地圖
+[2021.08.09-04.32.42:706][413]LogContentBrowser: Deferred new asset file creation: RT_小地圖_Mat
+[2021.08.09-04.32.42:785][413]LogContentBrowser: Creating deferred item: RT_小地圖_Mat
+[2021.08.09-04.32.50:796][569]LogContentBrowser: Attempting asset rename: RT_小地圖_Mat -> M_小地圖
+[2021.08.09-04.32.51:011][569]LogMaterial: Display: Missing cached shader map for material M_小地圖, compiling. 
+[2021.08.09-04.32.51:387][569]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.08.09-04.32.51:387][569]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.08.09-04.32.51:431][569]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.08.09-04.32.51:431][569]LogContentBrowser: End creating deferred item RT_小地圖_Mat
+[2021.08.09-04.32.52:237][571]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Texture.cpp:534 
+ with error DXGI_ERROR_DEVICE_REMOVED, 
+ Size=6144x2048x1 PF=12 D3DFormat=(0x00000035), NumMips=1, Flags=D3D11_BIND_DEPTH_STENCIL D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0
+[2021.08.09-04.32.52:238][571]LogD3D11RHI: [Aftermath] GDynamicRHI=000002391ADE1FC0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2021.08.09-04.32.52:238][571]LogWindows: Windows GetLastError: 操作順利完成。 (0)
